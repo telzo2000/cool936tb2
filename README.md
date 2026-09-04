@@ -105,8 +105,6 @@ https://github.com/telzo2000/cool936tb2/blob/main/buildguide_for_cool936tb2.md
 
 <br>
 
-
-
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
 この他に、NiHM充電池（単４形４本）、USBケーブル等が必要です。
