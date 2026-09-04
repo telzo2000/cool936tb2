@@ -84,7 +84,9 @@ https://youtu.be/5nkRklibay4
 <br>
 ７ピンに長さを調整したピンヘッダを、トラボ基板の「Front side」と書かれた表面から差し込みます。
 
+
 ![](img/img00006.jpg)
+
 
 裏面に出たピンをはんだ付けします。
 <br>
