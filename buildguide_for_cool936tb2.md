@@ -216,6 +216,9 @@ cherry MX modelでは、水平型のロータリーエンコーダの取り付�
 https://yuzukeycaps.com/ja/c/1da72466-d7d6-40e2-adac-48b55c5aeff5
 
 <br>
+
+![](img/img00011.png)
+
 これで完成です。
 <br>
 <br>
